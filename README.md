@@ -21,11 +21,9 @@ These projects highlight my growth in **frontend and backend development**, work
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Project 1](#)** | A brief, catchy one-line description of what it does. | React + Vite |
-| **[Project 2](#)** | A backend REST API that connects to a MySQL database. | Node.js + Express + MySQL |
-| **[Project 3](#)** | A full-stack app combining React frontend with Express backend. | React + Vite + Node.js + Express + MySQL |
-
-> _Tip: Replace the placeholders with your actual project names, short descriptions, and links._
+| **Type of proyect 1(#)** | A brief, catchy one-line description of what it does. | React + Vite |
+| **Type of proyect 2(#)** | A backend REST API that connects to a MySQL database. | Node.js + Express + MySQL |
+| **Type of proyect 3(#)** | A full-stack app combining React frontend with Express backend. | React + Vite + Node.js + Express + MySQL |
 
 ---
 
@@ -33,6 +31,6 @@ These projects highlight my growth in **frontend and backend development**, work
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Ezequiel060805/React-Practices.git
+   cd React-Practices
 
