@@ -1,4 +1,4 @@
-# 🎓 College Projects Portfolio
+# 🎓 University Projects Portfolio
 
 A curated collection of projects I built during my college journey, showcasing my skills in modern web development.  
 These projects highlight my growth in **frontend and backend development**, working with **React**, **Vite**, **Node.js**, **Express**, **MySQL**, and package managers like **npm** and **Bun**.
